@@ -9,6 +9,6 @@ public class HelloController {
 
     @FXML
     protected void onHelloButtonClick() {
-        welcomeText.setText("Welcome to multi repo spring JavaFX Application!");
+        welcomeText.setText("Welcome to multi repo spring boot JavaFX Application!");
     }
 }
